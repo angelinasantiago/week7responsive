@@ -1,0 +1,38 @@
+        * {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #000000;
+        box-sizing: border-box;}
+        
+        header h1 {
+        color: white; }
+
+        article h4 {
+        text-align: center;}
+
+        section h3 {
+            font-weight: 0;
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+          } 
+          /*https://www.w3schools.com/howto/howto_css_image_center.asp*/
+
+        nav, #feature, footer {
+        margin: 0.5%; }
+
+        nav li {
+        display: inline;
+		padding: 0.7em;
+        color: white;}
+
+        .row-color-1 {
+            background-color: whitesmoke;
+        }
